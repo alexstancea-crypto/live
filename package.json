@@ -10,7 +10,8 @@
     "body-parser": "^1.20.2",
     "node-fetch": "^3.4.0",
     "puppeteer-core": "^21.3.8",
-    "chrome-aws-lambda": "^18.1.0"
+    "chrome-aws-lambda": "^10.1.0"
   },
   "type": "module"
 }
+
